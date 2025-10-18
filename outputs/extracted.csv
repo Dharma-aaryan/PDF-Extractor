@@ -1,0 +1,358 @@
+page,line_no,text
+1,1,"32065 CASTLE COURT SUITE 300, EVERGREEN, CO 80439"
+1,2,Phone: 303-670-7993Fax: 303-670-8067MERGED INFILE CREDIT REPORT
+1,3,Reporting Bureau certifies compliance contractual requirements
+1,4,governing check of public records with these results.
+1,5,Public Records Found For:  Applicant  Spouse
+1,6,FILE # 2747819 FNMA # DATE COMPLETED 3/26/2015 RQD' BY HAPPY DAZE
+1,7,SEND TO Evergreen Credit A - 1101099 DATE ORDERED 3/19/2015
+1,8,32065 CASTLE COURT REPOSITORIES XP/TU/EF PRPD' BY
+1,9,"EVERGREEN, CO 80439 PRICE LOAN TYPE"
+1,10,REF. #
+1,11,PROPERTY ADDRESS
+1,12,APPLICANT CO-APPLICANT
+1,13,"APPLICANT TESTCASE, CARLOS CO-APPLICANT"
+1,14,SOC SEC # 000-00-0001 DOB SOC SEC # DOB
+1,15,MARITAL STATUS DEPENDENTS
+1,16,"CURRENT ADDRESS 9614 ORIOLE, ANTHILL, MO 65488 LENGTH"
+1,17,PREVIOUS ADDRESS LENGTH
+1,18,SCORE MODELS
+1,19,EQUIFAX/FICO CLASSIC V5 FACTA - MARISOL LEMUS TESTCASE - 000000001
+1,20,SCORE: 743
+1,21,00030 - TIME SINCE MOST RECENT ACCOUNT OPENING IS TOO SHORT00014 - LENGTH OF TIME ACCOUNTS HAVE BEEN ESTABLISHED00008 - TOO MANY INQUIRIES LAST 12 MONTHS00012 - LENGTH OF TIME REVOLVING ACCOUNTS HAVE BEEN ESTABLISHED
+1,22,TRANSUNION/FICO CLASSIC (98) - MARISOL L TESTCASE - 000000001
+1,23,SCORE: 741
+1,24,014 - LENGTH OF TIME ACCOUNTS HAVE BEEN ESTABLISHED012 - LENGTH OF TIME REVOLVING ACCOUNTS HAVE BEEN ESTABLISHED008 - TOO MANY INQUIRIES LAST 12 MONTHS030 - TIME SINCE MOST RECENT ACCOUNT OPENING IS TOO SHORTFA - INQUIRIES IMPACTED THE CREDIT SCORE
+1,25,"EXPERIAN/FAIR, ISAAC (VER. 2) - MARISOL TESTCASE - 000000001"
+1,26,SCORE: 745
+1,27,14 - LENGTH OF TIME ACCOUNTS HAVE BEEN ESTABLISHED08 - TOO MANY INQUIRIES LAST 12 MONTHS09 - TOO MANY ACCOUNTS RECENTLY OPENED
+1,28,ALERT
+1,29,1 - MARISOL TESTCASE YOB: 1980
+1,30,EXPERIAN OFAC NAME MATCHING SERVICE: NO MATCH FOUND UNLESS OTHERWISE INDICATED
+1,31,Request New Tradeline
+1,32,OPEN ACCOUNTS
+1,33,CITI
+1,34,ACCT000004Opened
+1,35,03/14Reported
+1,36,03/15Hi. Credit
+1,37,$230000Credit Limit
+1,38,$2300Reviewed
+1,39,12 mos30-59
+1,40,060-89
+1,41,090+
+1,42,0Past Due
+1,43,-0-Payment
+1,44,360 X 975Balance
+1,45,$120000
+1,46,DLA
+1,47,02/15ECOA
+1,48,BSource (B)
+1,49,XP/TU/EFMortgage
+1,50,AS AGREED
+1,51,USAA FEDERAL
+1,52,SAVINGS
+1,53,ACCT000006Opened
+1,54,06/14Reported
+1,55,02/15Hi. Credit
+1,56,$31206Credit Limit
+1,57,-Reviewed
+1,58,9 mos30-59
+1,59,060-89
+1,60,090+
+1,61,0Past Due
+1,62,-0-Payment
+1,63,069 X 533Balance
+1,64,$28626
+1,65,DLA
+1,66,08/14ECOA
+1,67,BSource (B)
+1,68,XP/TU/EFAuto
+1,69,AS AGREED
+1,70,CHASE
+1,71,ACCT000002Opened
+1,72,08/14Reported
+1,73,03/15Hi. Credit
+1,74,$4000Credit Limit
+1,75,$4000Reviewed
+1,76,7 mos30-59
+1,77,060-89
+1,78,090+
+1,79,0Past Due
+1,80,-0-Payment
+1,81,MIN X 10Balance
+1,82,$228
+1,83,DLA
+1,84,03/15ECOA
+1,85,BSource (B)
+1,86,XP/TU/EFRevolving
+1,87,AS AGREED
+1,88,ECOA KEY: B=BORROWER; C=CO-BORROWER; J=JOINT; U=UNDESIGNATED; A=AUTHORIZED USER; P=PARTICIPANT; S=CO-SIGNER
+1,89,"ADVANTAGE CREDIT: 32065 CASTLE COURT SUITE 300, EVERGREEN, CO 80439 (P) 303-670-7993 (F) 303-670-8067"
+1,90,"The information is furnished in response to an inquiry for the purpose of evaluating credit risks. It has been obtained from so urces deemed reliable, the accuracy of which this organization does not guarantee. The"
+1,91,"inquirer has agreed to indemnify that reporting bureau for any damage arising from misuse of this information, and this report is furnished in reliance upon that indemnity. It must be held in strict confidence and"
+1,92,"complies with the provisions of Public Law 91-508, the Fair Credit Reporting Act. Reporting bureau certifies that all Residenti al Mortgage Credit Reports meet the standards prescribed by FNMA, FHMC, FHA, VA"
+1,93,and the Farmers Home Administration.
+1,94,Page 1/ 5
+2,1,OPEN ACCOUNTS
+2,2,GEMB/JCP
+2,3,ACCT000007Opened
+2,4,12/11Reported
+2,5,03/15Hi. Credit
+2,6,$500Credit Limit
+2,7,$500Reviewed
+2,8,39 mos30-59
+2,9,060-89
+2,10,090+
+2,11,0Past Due
+2,12,-0-Payment
+2,13,0Balance
+2,14,$0
+2,15,DLA
+2,16,08/13ECOA
+2,17,BSource (B)
+2,18,XP/TU/EFRevolving
+2,19,AS AGREED
+2,20,DEROGATORY ACCOUNTS
+2,21,GTE SOUTHWEST
+2,22,INC
+2,23,ACCT000005Opened
+2,24,08/14Reported
+2,25,02/15Hi. Credit
+2,26,$150Credit Limit
+2,27,-Reviewed
+2,28,7 mos30-59
+2,29,160-89
+2,30,190+
+2,31,1Past Due
+2,32,$75Payment
+2,33,001 X ?Balance
+2,34,$75
+2,35,DLA
+2,36,02/15ECOA
+2,37,BSource (B)
+2,38,XP/TU/EFOther
+2,39,CHARGE OFF
+2,40,UTILITY COMPANY
+2,41,HSBC/MCRAE
+2,42,ACCT000010Opened
+2,43,06/11Reported
+2,44,03/15Hi. Credit
+2,45,$900Credit Limit
+2,46,$900Reviewed
+2,47,35 mos30-59
+2,48,160-89
+2,49,090+
+2,50,0Past Due
+2,51,-0-Payment
+2,52,0Balance
+2,53,$0
+2,54,DLA
+2,55,11/14ECOA
+2,56,BSource (B)
+2,57,XP/TU/EFRevolving
+2,58,CUR WAS 30
+2,59,CLOSED ACCOUNTS
+2,60,NBGL-MCRAES
+2,61,ACCT000013Opened
+2,62,06/11Reported
+2,63,04/15Hi. Credit
+2,64,$900Credit Limit
+2,65,$900Reviewed
+2,66,25 mos30-59
+2,67,060-89
+2,68,090+
+2,69,0Past Due
+2,70,-0-Payment
+2,71,25Balance
+2,72,$450
+2,73,DLA
+2,74,03/15ECOA
+2,75,BSource (B)
+2,76,XP/TU/EFRevolving
+2,77,AS AGREED
+2,78,DISCOVER FIN
+2,79,SVS LLC
+2,80,ACCT000003Opened
+2,81,04/12Reported
+2,82,03/15Hi. Credit
+2,83,$7500Credit Limit
+2,84,$7500Reviewed
+2,85,35 mos30-59
+2,86,060-89
+2,87,090+
+2,88,0Past Due
+2,89,-0-Payment
+2,90,PaidBalance
+2,91,-0-
+2,92,DLA
+2,93,03/14ECOA
+2,94,BSource (B)
+2,95,XP/TU/EFRevolving
+2,96,PAID
+2,97,ACCOUNT CLOSED AT CONSUMER'S REQUEST
+2,98,TOYOTA MOTOR
+2,99,CREDIT
+2,100,ACCT000012Opened
+2,101,06/14Reported
+2,102,07/14Hi. Credit
+2,103,$30973Credit Limit
+2,104,-Reviewed
+2,105,2 mos30-59
+2,106,060-89
+2,107,090+
+2,108,0Past Due
+2,109,-0-Payment
+2,110,PaidBalance
+2,111,-0-
+2,112,DLA
+2,113,07/14ECOA
+2,114,BSource (B)
+2,115,XP/TU/EFAuto
+2,116,PAID
+2,117,OTHER CREDIT HISTORY
+2,118,*** NONE ***
+2,119,PUBLIC RECORDS
+2,120,JHOWDY HIGH COURT
+2,121,Docket #: ABC111Source:File Date:
+2,122,Amount:
+2,123,Status Date:03/11
+2,124,"$12,00001/12Plaintiff:"
+2,125,Action Type:
+2,126,Status:CLUSTER TIGHT INC
+2,127,CHAPTER 11 BANKRUPTCYSATISFIED
+2,128,INQUIRIES (LAST 120 DAYS)
+2,129,XP/EF B 03/14/15 FISERV CREDSTAR FINANCE
+2,130,TU B 03/14/15 CHASE CREDIT REAL ESTATE
+2,131,XP B 03/08/15 MBNA BANKING
+2,132,TU B 02/06/15 CITI BANKINGFILE # 2747819 FNMA # DATE COMPLETED 3/26/2015 RQD' BY HAPPY DAZE
+2,133,SEND TO Evergreen Credit A - 1101099 DATE ORDERED 3/19/2015
+2,134,32065 CASTLE COURT REPOSITORIES XP/TU/EF PRPD' BY
+2,135,"EVERGREEN, CO 80439 PRICE LOAN TYPE"
+2,136,REF. #
+2,137,PROPERTY ADDRESS
+2,138,APPLICANT CO-APPLICANT
+2,139,"APPLICANT TESTCASE, CARLOS CO-APPLICANT"
+2,140,SOC SEC # 000-00-0001 DOB SOC SEC # DOB
+2,141,MARITAL STATUS DEPENDENTS
+2,142,ECOA KEY: B=BORROWER; C=CO-BORROWER; J=JOINT; U=UNDESIGNATED; A=AUTHORIZED USER; P=PARTICIPANT; S=CO-SIGNER
+2,143,"ADVANTAGE CREDIT: 32065 CASTLE COURT SUITE 300, EVERGREEN, CO 80439 (P) 303-670-7993 (F) 303-670-8067"
+2,144,"The information is furnished in response to an inquiry for the purpose of evaluating credit risks. It has been obtained from so urces deemed reliable, the accuracy of which this organization does not guarantee. The"
+2,145,"inquirer has agreed to indemnify that reporting bureau for any damage arising from misuse of this information, and this report is furnished in reliance upon that indemnity. It must be held in strict confidence and"
+2,146,"complies with the provisions of Public Law 91-508, the Fair Credit Reporting Act. Reporting bureau certifies that all Residenti al Mortgage Credit Reports meet the standards prescribed by FNMA, FHMC, FHA, VA"
+2,147,and the Farmers Home Administration.
+2,148,Page 2/ 5
+3,1,TRADE SUMMARY
+3,2,# BALANCE HIGH CREDIT PAYMENTS PAST DUE
+3,3,MORTGAGE 1 120000 230000 975 0
+3,4,AUTO 2 28626 31206 533 0
+3,5,EDUCATION 00000
+3,6,OTHER INSTALLMENT 00000
+3,7,OPEN 00000
+3,8,REVOLVING 5 678 6300 35 0
+3,9,OTHER 1 75 150 0 75
+3,10,TOTAL 9 149379 267656 1543 75
+3,11,SECURED DEBT 28626 OLDEST TRADELINE 06/11
+3,12,UNSECURED DEBT 120753 DEBT/HIGH CREDIT 56%
+3,13,DEROGATORY SUMMARY
+3,14,CHARGE OFFS: 1 30 DAYS: 2 INQUIRIES: 4
+3,15,COLLECTIONS: 0 60 DAYS: 1MOST RECENT LATE: undetermined
+3,16,BANKRUPTCY: 0 90 DAYS: 1
+3,17,PUBLIC RECORDS: 1 OTHER: 0
+3,18,MORTGAGE SUMMARY
+3,19,APPLICANT CO-APPLICANT
+3,20,# OF 30 DAY MTG DELINQ 0
+3,21,# OF 60 DAY MTG DELINQ 0
+3,22,# OF 90 DAY MTG DELINQ 0
+3,23,# OF INQUIRIES 4
+3,24,TRADELINE COUNT 9
+3,25,MISCELLANEOUS INFORMATION
+3,26,- Instant View Password: BE-13054094
+3,27,"- To verify the authenticity of this credit report, please visit https://credit.advcredit.com and click on the Instant View lin k. Enter report number"
+3,28,2747819 and password BE-13054094 to view the report. For any inquiries regarding this report or services provided by ADVANTAGECREDIT please contact us at 303-670-7993.
+3,29,SOURCE OF INFORMATION
+3,30,1 EXPERIAN - PULLED ON: 03/19/15
+3,31,NAME: MARISOL TESTCASE 000000001 DOB: N/A
+3,32,"NAME: TESTCASE MARISOL 000000001 DOB: N/ASSN: 000000001ADDRESS: 220 LOCUST AVE, ANTHILL, MO 65488-0001 - REPORTED 09/14 - 03/15ADDRESS: 7144 S JAMACHA RD, ANTHILL, MO 65488 - REPORTED 03/15EMPLOYER: US AIR FORCE// - REPORTED 07/14FILE # 2747819 FNMA # DATE COMPLETED 3/26/2015 RQD' BY HAPPY DAZE"
+3,33,SEND TO Evergreen Credit A - 1101099 DATE ORDERED 3/19/2015
+3,34,32065 CASTLE COURT REPOSITORIES XP/TU/EF PRPD' BY
+3,35,"EVERGREEN, CO 80439 PRICE LOAN TYPE"
+3,36,REF. #
+3,37,PROPERTY ADDRESS
+3,38,APPLICANT CO-APPLICANT
+3,39,"APPLICANT TESTCASE, CARLOS CO-APPLICANT"
+3,40,SOC SEC # 000-00-0001 DOB SOC SEC # DOB
+3,41,MARITAL STATUS DEPENDENTS
+3,42,ECOA KEY: B=BORROWER; C=CO-BORROWER; J=JOINT; U=UNDESIGNATED; A=AUTHORIZED USER; P=PARTICIPANT; S=CO-SIGNER
+3,43,"ADVANTAGE CREDIT: 32065 CASTLE COURT SUITE 300, EVERGREEN, CO 80439 (P) 303-670-7993 (F) 303-670-8067"
+3,44,"The information is furnished in response to an inquiry for the purpose of evaluating credit risks. It has been obtained from so urces deemed reliable, the accuracy of which this organization does not guarantee. The"
+3,45,"inquirer has agreed to indemnify that reporting bureau for any damage arising from misuse of this information, and this report is furnished in reliance upon that indemnity. It must be held in strict confidence and"
+3,46,"complies with the provisions of Public Law 91-508, the Fair Credit Reporting Act. Reporting bureau certifies that all Residenti al Mortgage Credit Reports meet the standards prescribed by FNMA, FHMC, FHA, VA"
+3,47,and the Farmers Home Administration.
+3,48,Page 3/ 5
+4,1,SOURCE OF INFORMATION
+4,2,2 TRANSUNION - PULLED ON: 03/19/15 - INFILE DATE: 06/01/01
+4,3,NAME: MARISOL L TESTCASE
+4,4,"NAME: DOB: 05/27/80SSN: 000000001ADDRESS: 220 LOCUST AV, ANTHILL, MO 65488 - REPORTED 12/14ADDRESS: 7144 S JAMACHA RD, ANTHILL, MO 65488 - REPORTED 11/14EMPLOYER: FLETCHER MOTORCARS/CAR SALES/PHONE: 555-0102 - RESIDENCE"
+4,5,3 EQUIFAX - PULLED ON: 03/19/15 - INFILE DATE: 06/30/01
+4,6,NAME: MARISOL LEMUS TESTCASE DOB: 05/27/80
+4,7,"SSN: 000000001ADDRESS: 220 LOCUST AVE, ANTHILL, MO 65488-0001 - REPORTED 09/14ADDRESS: 7144 S JAMACHA RD, ANTHILL, MO 65488-0001 - REPORTED 06/10"
+4,8,CREDITORS
+4,9,"ANB/CITIBANK SD P O BOX 15687, WILMINGTON, DE 19850 800-533-5600"
+4,10,"BANK OF AMERICA POB 17054, WILMINGTON, DE 19884 800-421-2110BANK ONE BANK ONE CARD SERV, WESTERVILLE OH 43081 800-955-9900"
+4,11,"CATO CORPORATION PO BOX 34216, CHARLOTTE, NC 28234 704-588-2428"
+4,12,"CHASE 800 BROOKSEDGE BLVD, WESTERVILLE, OH 43081 800-955-9900CITI CARDS CBSDNA POB 6241, SIOUX FALLS, SD 57117 800-843-0777"
+4,13,"DISCOVER FINANCIAL S PO BOX15316, ATT:CMS/PROD DEVELOP, WILMINGTON, DE 19850-5316 800-347-2683"
+4,14,GE CONSUMER
+4,15,"FINANCE/JCPENNEYPO BOX 981426, EL PASO, TX 79998 800-527-4403"
+4,16,"GEMB/JCP PO BOX 984100, EL PASO, TX 79998 800-542-0800"
+4,17,"HB/MCRAES 3455 HWY 80 W, JACKSON, MS 39209 601-968-4293"
+4,18,"M.B.N.A AMER 400 CHRISTIANIA ROAD, NEWARK, DE 19713-4217MBGA/JCPENEY P.O. BOX 27570, ALBUQUERQUE NM 87125NBGL-MCRAES P O BOX 10327, JACKSON, MS 39289 601-968-4293"
+4,19,NBGL-MCRAES CREDIT
+4,20,"DEPPO BOX 10327, JACKSON, MS 39289 601-968-4220"
+4,21,"USAA FEDERAL SAVINGS B PO BOX 47504, SAN ANTONIO, TX 78265 800-922-9092"
+4,22,DISCLAIMER
+4,23,-
+4,24,An asterisk (*) following the payment amount indicates the repositories have no payment data and that the amount was automatica lly
+4,25,calculated as a percentage of the account balance.
+4,26,-
+4,27,This is a report containing information supplied by the repositories listed above. The merge process is automated and the repor t may include
+4,28,"some duplications and/or omissions. Inquiries regarding any disputed items should be directed to the creditor reporting the ite m, or to the"
+4,29,appropriate repository service center(s) listed below.
+4,30,-FILE # 2747819 FNMA # DATE COMPLETED 3/26/2015 RQD' BY HAPPY DAZE
+4,31,SEND TO Evergreen Credit A - 1101099 DATE ORDERED 3/19/2015
+4,32,32065 CASTLE COURT REPOSITORIES XP/TU/EF PRPD' BY
+4,33,"EVERGREEN, CO 80439 PRICE LOAN TYPE"
+4,34,REF. #
+4,35,PROPERTY ADDRESS
+4,36,APPLICANT CO-APPLICANT
+4,37,"APPLICANT TESTCASE, CARLOS CO-APPLICANT"
+4,38,SOC SEC # 000-00-0001 DOB SOC SEC # DOB
+4,39,MARITAL STATUS DEPENDENTS
+4,40,ECOA KEY: B=BORROWER; C=CO-BORROWER; J=JOINT; U=UNDESIGNATED; A=AUTHORIZED USER; P=PARTICIPANT; S=CO-SIGNER
+4,41,"ADVANTAGE CREDIT: 32065 CASTLE COURT SUITE 300, EVERGREEN, CO 80439 (P) 303-670-7993 (F) 303-670-8067"
+4,42,"The information is furnished in response to an inquiry for the purpose of evaluating credit risks. It has been obtained from so urces deemed reliable, the accuracy of which this organization does not guarantee. The"
+4,43,"inquirer has agreed to indemnify that reporting bureau for any damage arising from misuse of this information, and this report is furnished in reliance upon that indemnity. It must be held in strict confidence and"
+4,44,"complies with the provisions of Public Law 91-508, the Fair Credit Reporting Act. Reporting bureau certifies that all Residenti al Mortgage Credit Reports meet the standards prescribed by FNMA, FHMC, FHA, VA"
+4,45,and the Farmers Home Administration.
+4,46,Page 4/ 5
+5,1,DISCLAIMER
+5,2,EXPERIAN TRANSUNION EQUIFAX
+5,3,PO BOX 2002 PO BOX 1000 PO BOX 740241
+5,4,"ALLEN, TX 75013 CHESTER, PA 19022 ATLANTA, GA 30374888-397-3742 800-888-4213 800-685-1111"
+5,5,www.experian.com/reportaccess transunion.com/myoptions www.equifax.com/fcraFILE # 2747819 FNMA # DATE COMPLETED 3/26/2015 RQD' BY HAPPY DAZE
+5,6,SEND TO Evergreen Credit A - 1101099 DATE ORDERED 3/19/2015
+5,7,32065 CASTLE COURT REPOSITORIES XP/TU/EF PRPD' BY
+5,8,"EVERGREEN, CO 80439 PRICE LOAN TYPE"
+5,9,REF. #
+5,10,PROPERTY ADDRESS
+5,11,APPLICANT CO-APPLICANT
+5,12,"APPLICANT TESTCASE, CARLOS CO-APPLICANT"
+5,13,SOC SEC # 000-00-0001 DOB SOC SEC # DOB
+5,14,MARITAL STATUS DEPENDENTS
+5,15,ECOA KEY: B=BORROWER; C=CO-BORROWER; J=JOINT; U=UNDESIGNATED; A=AUTHORIZED USER; P=PARTICIPANT; S=CO-SIGNER
+5,16,"ADVANTAGE CREDIT: 32065 CASTLE COURT SUITE 300, EVERGREEN, CO 80439 (P) 303-670-7993 (F) 303-670-8067"
+5,17,"The information is furnished in response to an inquiry for the purpose of evaluating credit risks. It has been obtained from so urces deemed reliable, the accuracy of which this organization does not guarantee. The"
+5,18,"inquirer has agreed to indemnify that reporting bureau for any damage arising from misuse of this information, and this report is furnished in reliance upon that indemnity. It must be held in strict confidence and"
+5,19,"complies with the provisions of Public Law 91-508, the Fair Credit Reporting Act. Reporting bureau certifies that all Residenti al Mortgage Credit Reports meet the standards prescribed by FNMA, FHMC, FHA, VA"
+5,20,and the Farmers Home Administration.
+5,21,Page 5/ 5 *** E ND OF REP ORT 3/26/2015 7:07:57  AM ***
